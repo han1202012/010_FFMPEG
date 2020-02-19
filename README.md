@@ -3,7 +3,7 @@
 
 **① CSDN 博客地址 :** [【Android FFMPEG 开发】Android Studio 工程配置 FFMPEG ( 动态库打包 | 头文件与函数库拷贝 | CMake 脚本配置 )](https://hanshuliang.blog.csdn.net/article/details/104367747)
 
-**②  博客资源下载地址 :**
+**②  博客资源下载地址 :** [https://download.csdn.net/download/han1202012/12173019](https://download.csdn.net/download/han1202012/12173019)
 
 **③ 示例代码 GitHub 地址 :** [https://github.com/han1202012/010_FFMPEG](https://github.com/han1202012/010_FFMPEG)
 
@@ -325,7 +325,7 @@ Java_kim_hsl_ffmpeg_MainActivity_stringFromJNI(
 
 **① CSDN 博客地址 :** [【Android FFMPEG 开发】Android Studio 工程配置 FFMPEG ( 动态库打包 | 头文件与函数库拷贝 | CMake 脚本配置 )](https://hanshuliang.blog.csdn.net/article/details/104367747)
 
-**②  博客资源下载地址 :**
+**②  博客资源下载地址 :** [https://download.csdn.net/download/han1202012/12173019](https://download.csdn.net/download/han1202012/12173019)
 
 **③ 示例代码 GitHub 地址 :** [https://github.com/han1202012/010_FFMPEG](https://github.com/han1202012/010_FFMPEG)
 
